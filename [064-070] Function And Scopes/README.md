@@ -1,2 +1,2 @@
 ## Note
-- ### [Currying Function or Function Chine | Closure ](https://www.geeksforgeeks.org/what-is-currying-function-in-javascript/)
+- ### [Closure ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
